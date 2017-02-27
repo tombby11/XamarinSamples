@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{4B4ABB5A-CBDD-452F-82A8-885078C0E22C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MitupSample/ViewModels/Page1BindingViewModel.cs" Line="33" Column="32" />
+      <File FileName="MitupSample/MainApp.xaml" Line="4" Column="69" />
+      <File FileName="MitupSample/MainApp.xaml.cs" Line="11" Column="50" />
+      <File FileName="MitupSample/App.xaml.cs" Line="20" Column="58" />
+      <File FileName="MitupSample/Views/Page1Prism.xaml.cs" Line="1" Column="1" />
+      <File FileName="MitupSample/ViewModels/Page1PrismViewModel.cs" Line="30" Column="4" />
+      <File FileName="MitupSample/obj/Debug/MitupSample.Views.MainPage.xaml.g.cs" Line="17" Column="26" />
+      <File FileName="MitupSample.iOS/AppDelegate.cs" Line="25" Column="5" />
+      <File FileName="MitupSample.Droid/MainActivity.cs" Line="24" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MitupSample" expanded="True">
+            <Node name="MitupSample" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Page1.xaml" expanded="True" />
+                <Node name="Page1Binding.xaml" expanded="True" />
+                <Node name="Page1Prism.xaml" expanded="True" />
+                <Node name="Page2.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainApp.xaml" expanded="True" />
+            </Node>
+            <Node name="MitupSample.Droid" expanded="True" />
+            <Node name="MitupSample.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MitupSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.386DEC8C-41B7-4F85-AD8C-EDED90E834CC" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MitupSample.Droid PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
+  <MultiItemStartupConfigurations />
+</Properties>
