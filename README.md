@@ -1,2 +1,2 @@
 # XamarinSamples
-This one has Samples of Xamarin for Demonstration 
+This repository has been created to contain samples of Xamarin apps for demonstration 
